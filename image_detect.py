@@ -1,3 +1,4 @@
+#derived from https://github.com/fchollet/keras/blob/master/examples/mnist_cnn.py
 
 import keras
 from keras.datasets import mnist
